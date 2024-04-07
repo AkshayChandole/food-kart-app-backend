@@ -35,4 +35,5 @@ router.put(
   jwtParse,
   MyRestaurantController.updateMyRestaurant
 );
+
 export default router;
